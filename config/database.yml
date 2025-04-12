@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  type: postgres
+  host: localhost
+  port: 5432
+  username: dev
+  password: password
+  database: relnet_db
+  pool: 3
